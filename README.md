@@ -14,6 +14,10 @@
 4. Write **lightwizard**
 5. Select it or press Enter to install
 
+## Credits
+
+- Icon: <https://opengameart.org/content/rice-mage>
+
 ## License
 
 [MIT License](./LICENSE)
