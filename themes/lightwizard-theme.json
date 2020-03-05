@@ -1,6 +1,6 @@
 {
+    "publisher": "dustinlahr",
     "$schema": "vscode://schemas/color-theme",
-    "publisher": "lightwizard",
     "name": "lightwizard",
     "type": "light",
     "colors": {

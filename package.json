@@ -1,7 +1,7 @@
 {
+    "publisher": "dustinlahr",
     "name": "lightwizard",
     "displayName": "lightwizard",
-    "publisher": "lightwizard",
     "description": "",
     "version": "0.0.1",
     "engines": {
@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/username/repository.git"
+        "url": "/dustinlahr/lightwizard.git"
     },
     "categories": [
         "Themes"
