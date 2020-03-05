@@ -1,0 +1,26 @@
+{
+    "name": "lightwizard",
+    "displayName": "lightwizard",
+    "publisher": "lightwizard",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/username/repository.git"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "lightwizard",
+                "uiTheme": "vs",
+                "path": "./themes/lightwizard-theme.json"
+            }
+        ]
+    }
+}
